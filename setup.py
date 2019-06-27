@@ -13,8 +13,7 @@ setup(
                  'using Keras'),
     url='https://github.com/kpot/keras-transformer',
     author='Kirill Mavreshko',
-    author_email='kimavr@gmail.com',
-    python_requires='>=3.6.0',
+    author_email='kimavr@gmail.com'
 
     classifiers=[
         'Development Status :: 5 - Production/Stable',
